@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: 우커머스 한국형 주소, Korea Address
- * Plugin URI: https://github.com/dgnercom
+ * Plugin URI: https://github.com/dgnerlab
  * Description: 설치 즉시 적용되는 5kb 우커머스 한국형 주소
  * Version: 1.2
  * Author: dgner
- * Author URI: https://dgner.com
+ * Author URI: https://github.com/dgnerlab
  * License: GPL3
  */
 add_action( 'wp_enqueue_scripts', 'dgner_wp_enqueue_scripts' );
